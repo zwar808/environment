@@ -39,4 +39,4 @@ local fluxus = {
     keyrelease == keyrelease
 }
 
-return syn
+return fluxus
