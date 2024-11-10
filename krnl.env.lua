@@ -39,4 +39,4 @@ local krnl = {
     keyrelease == keyrelease
 }
 
-return syn
+return krnl
